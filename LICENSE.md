@@ -1,4 +1,4 @@
-
+instant Addon for Magnetic for macOS - automated-tasks and file-indexing offers the most advanced Magnetic for macOS addon, with automated-tasks and file-indexing. Ideal for macOS
 
 
 
